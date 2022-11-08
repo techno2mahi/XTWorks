@@ -17,13 +17,13 @@
     "@types/jquery": "^2.0.40",
     "@types/googlemaps": "^3.26.2",
     "@types/marker-animate-unobtrusive": "^0.2.4",
-    "awesome-typescript-loader": "^2.2.4",
+    "awesome-typescript-loader": "^5.2.1",
     "copy-webpack-plugin": "^4.0.1",
-    "css-loader": "^0.25.0",
+    "css-loader": "^6.7.1",
     "raw-loader": "^0.5.1",
-    "to-string-loader": "^1.1.4",
+    "to-string-loader": "^1.2.0",
     "typescript": "~2.0.10",
-    "webpack": "2.1.0-beta.27",
+    "webpack": "5.74.0",
     "webpack-dev-server": "2.1.0-beta.11",
     "webpack-merge": "^0.15.0"
   }
